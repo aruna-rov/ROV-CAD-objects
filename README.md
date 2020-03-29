@@ -29,3 +29,7 @@ ballast tank to control Z axis movement.
 ![watertank](./water_kamer/waterkamer_blueprint.svg)
 ![watertank](./water_kamer/waterkamer_dop_blueprint.svg)
 
+## BLheli houder
+Holds BLheli ESC into place.
+![blheli](./blheli_houder/blheli_houder_blueprint.svg)
+
