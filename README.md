@@ -33,3 +33,7 @@ ballast tank to control Z axis movement.
 Holds BLheli ESC into place.
 ![blheli](./blheli_houder/blheli_houder_blueprint.svg)
 
+## prototype houder
+Holds two prototype boards.
+![prototype](./prototype_houder/prototype_houder_blueprint.svg)
+
