@@ -37,3 +37,7 @@ Holds BLheli ESC into place.
 Holds two prototype boards.
 ![prototype](./prototype_houder/prototype_houder_blueprint.svg)
 
+## watersensor houder
+Holds watersensor.
+![watersensor](./watersensor_houder/watersensor_blueprint.svg)
+
