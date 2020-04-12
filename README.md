@@ -6,6 +6,7 @@ All object names are in Dutch.
 ## batterij houder
 hold nine 18650 cells
 ![bat](./batterij_houder/blueprint.svg)
+![bms](./batterij_houder/bms_blueprint.svg)
 
 ## bldc
 mount "A2212" bldc in 45 or 90 degrees
