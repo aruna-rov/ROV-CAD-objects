@@ -11,7 +11,6 @@ hold nine 18650 cells
 ## bldc
 mount "A2212" bldc in 45 or 90 degrees
 ![bldc](./bldc/bldc_blueprint.svg)
-![bldc](./bldc/bldc_blueprint_side.svg)
 ![45deg](./bldc/45_deg_mount_blueprint.svg)
 
 ## esc houder
