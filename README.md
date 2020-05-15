@@ -42,3 +42,7 @@ Holds two prototype boards.
 Holds watersensor.
 ![watersensor](./watersensor_houder/watersensor_blueprint.svg)
 
+## dop
+Cap with holes for wires.
+![watersensor](./dop/dop_blueprint.svg)
+
