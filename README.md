@@ -44,5 +44,8 @@ Holds watersensor.
 
 ## dop
 Cap with holes for wires.
-![watersensor](./dop/dop_blueprint.svg)
+![dop](./dop/dop_blueprint.svg)
 
+## PCA9685
+Hold PCA9685 breakout bord.
+![PCA9685](./PCA9685/PCA9685_blueprint.svg)
